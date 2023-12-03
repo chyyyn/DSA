@@ -1,0 +1,2 @@
+Với V đỉnh, có tổng cộng (V C 2) = V*(V-1)/2 cạnh có thể có. Do đó, có 2^(V*(V-1)/2) đồ thị vô hướng khác nhau có thể tạo ra từ V đỉnh. 
+Điều này bởi vì mỗi cạnh có thể xuất hiện hoặc không xuất hiện trong đồ thị, do đó tạo ra 2 lựa chọn cho mỗi cạnh
